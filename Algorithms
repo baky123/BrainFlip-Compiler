@@ -1,0 +1,15 @@
+#######################################
+Cell multiplication using only 4 cells
+Multiply cells 0 and 1
+
+++++>+++<     Set up initial cells
+
+>             Move to 2
+[              
+<             Move to 1
+[>>+>+<<<-]   Move 0 to 2 and 3
+>>>           Move to 3
+[<<<+>>>-]    Move 3 to 0
+<<-           Sub one from 1
+]
+<
